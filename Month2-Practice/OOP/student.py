@@ -7,5 +7,4 @@ class Student:
         return f"Name = {self.name} and Age = {self.age}"
 
 student1 = Student("Kay", "Ambere")
-
 print(student1.student_info())
